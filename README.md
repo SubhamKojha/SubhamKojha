@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subhamkojha" alt="subhamkojha" /></a> </p>
 
-- 🔭 I’m currently working on **NavBus**
+- 🔭 I’m currently working on **Moneezy**
 
 - 🌱 I’m currently learning **MERN stack**
 
