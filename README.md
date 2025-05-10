@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif" alt="Boy Coding" width="300"/>
-</p>
-
 <h1 align="center">Hi 👋, I'm Subham Kumar Ojha</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
 
