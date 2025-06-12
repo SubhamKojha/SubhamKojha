@@ -13,6 +13,8 @@
 - 📫 Reach me at **ojhas6667@gmail.com**
 - ⚡ Fun fact: **I am a fitness freak**
 
+<br> 
+
 ## ⚡ Hackathon Journey
 
 - **Hack4Bengal Virtual** (May 2025)
@@ -22,6 +24,8 @@
 - **Hackfest** (April 2025)
   - Developed **Atom Mail System** - An innovative email management solution
   - Technologies used: MERN Stack
+
+<br> 
 
 ## 🌐 Socials
 
@@ -36,6 +40,8 @@
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
+
+<br>
 
 ## 💻 Tech Stack
 
@@ -59,18 +65,24 @@
   <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-## 🏆 Achievements
+<br>
+
+## 🔰 Badges 
 
 <div align="left">
-  <h3>Contributor - SSOC'4</h3>
+  <h4>Contributor - SSOC'4</h4>
   <img src="https://drive.google.com/uc?export=view&id=1VsqsBivfrLfqCFwuMXgv2k3WK3E_0TIp" width="200" alt="SSOC'4 Badge"/>
 </div>
 
-## 🔰 Contributions
+<br>
+
+## 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=subhamkojha&theme=tokyonight&row=1&column=6" alt="trophy" />
 </div>
+
+<br>
 
 ## 📊 GitHub Stats
 
@@ -86,9 +98,10 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=subhamkojha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Tech Animation" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Tech Animation" />
+  <img src="https://komarev.com/ghpvc/?username=subhamkojha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
+
