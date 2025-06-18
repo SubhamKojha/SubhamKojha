@@ -87,13 +87,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=subhamkojha&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=SubhamKojha&theme=tokyonight" alt="GitHub Streak" />
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=SubhamKojha&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=SubhamKojha&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=subhamkojha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhamKojha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </div>
+
 
 ---
 
