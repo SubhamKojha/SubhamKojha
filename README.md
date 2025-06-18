@@ -88,7 +88,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=subhamkojha&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhamkojha&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SubhamKojha&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
