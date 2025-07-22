@@ -16,14 +16,17 @@
 <br> 
 
 ## ⚡ Hackathon Journey
-
+- **Hackolution 2025- IEM** (June 2025)
+  - Created **Momezzy** - A financial manager and ITR filing system
+  - Technologies used: MERN Stack
+    
 - **Hack4Bengal Virtual** (May 2025)
   - Created **VaxTrak** - A vaccination tracking and management system
   - Technologies used: MERN Stack
 
 - **Hackfest** (April 2025)
   - Developed **Atom Mail System** - An innovative email management solution
-  - Technologies used: MERN Stack
+  - Technologies used: HTML, CSS, JS, NodeJs, ExpressJs, MongoDb
 
 <br> 
 
