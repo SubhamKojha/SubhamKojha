@@ -17,7 +17,7 @@
 
 ## ⚡ Hackathon Journey
 - **Hackolution 2025 - IEM** (June 2025)
-  - Created **Momezzy** - A financial manager and ITR filing system
+  - Created **Monezzy** - A financial manager and ITR filing system
   - Technologies used: MERN Stack
     
 - **Hack4Bengal Virtual** (May 2025)
