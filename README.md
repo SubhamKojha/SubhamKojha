@@ -2,46 +2,44 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=100&lines=Subham+Kumar+Ojha" alt="Typing SVG" />
 </div>
 
-<h3 align="center">Web_dev | Blockchain | AI | DevOps</h3>
+<h3 align="center">Web Developer ⚡ Blockchain Enthusiast ⚡ DevOps Explorer ⚡ C++ DSA Learner</h3>
 
-## 🚀 About Me
+---
 
-- 🔭 I'm currently working on **Moneezy**
-- 🌱 I'm learning and mastering the **MERN Stack**
-- 🤝 I'm looking for help with **DevOps**
-- 💬 Ask me about **Web Development**
+## 🚀 About Me  
+
+Hey there! I’m **Subham**, a developer passionate about building scalable, meaningful, and creative digital products.  
+I specialize in the **MERN + Next.js** ecosystem, and I’m currently exploring **Blockchain**, **DevOps**, and **Cloud Automation**.  
+I also practice **Data Structures & Algorithms in C++** to strengthen my logic and problem-solving skills.  
+
+- 💻 Building intuitive and efficient full-stack apps.  
+- ⛓️ Exploring **Solidity**, **Hardhat**, and **Ethereum Smart Contracts**.  
+- ☁️ Learning **AWS**, **Google Cloud**, and **CI/CD pipelines**.  
+- ⚡ Fitness freak | Lifelong learner | Loves clean UI + clean code.  
 - 📫 Reach me at **ojhas6667@gmail.com**
-- ⚡ Fun fact: **I am a fitness freak**
 
-<br> 
 
-## ⚡ Hackathon Journey
-- **Hackolution 2025 - IEM** (June 2025)
-  - Created **Monezzy** - A financial manager and ITR filing system
-  - Technologies used: MERN Stack
-    
-- **Hack4Bengal Virtual** (May 2025)
-  - Created **VaxTrak** - A vaccination tracking and management system
-  - Technologies used: MERN Stack
-
-- **Hackfest 2025 - IIT-IST Dhanbad** (April 2025)
-  - Developed **Atom Mail System** - An innovative email management solution
-  - Technologies used: HTML, CSS, JS, NodeJs, ExpressJs, MongoDb
-
-<br> 
+---
 
 ## 🌐 Socials
 
 <div align="left">
-  <a href="https://twitter.com/_subhk_" target="_blank">
+  <a href="mailto:ojhas6667@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://x.com/_subhk_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="https://linkedin.com/in/subham-kumar-ojha" target="_blank">
+  <a href="https://www.linkedin.com/in/subhamkumarojhait" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/_subhk_" target="_blank">
+  <a href="https://www.instagram.com/_subhK_" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
+  <a href="https://discord.com/users/_subhK_" target="_blank">
+  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+
 </div>
 
 <br>
@@ -92,9 +90,6 @@
 <div align="center">
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=SubhamKojha&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=SubhamKojha&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </div>
 
 <div align="center">
