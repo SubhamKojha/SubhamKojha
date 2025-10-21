@@ -18,7 +18,6 @@ I also practice **Data Structures & Algorithms in C++** to strengthen my logic a
 - ⚡ Fitness freak | Lifelong learner | Loves clean UI + clean code.  
 - 📫 Reach me at **ojhas6667@gmail.com**
 
-
 ---
 
 ## 🌐 Socials
@@ -37,12 +36,11 @@ I also practice **Data Structures & Algorithms in C++** to strengthen my logic a
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="https://discord.com/users/_subhK_" target="_blank">
-  <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
-
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </div>
 
-<br>
+---
 
 ## 💻 Tech Stack  
 
@@ -73,9 +71,9 @@ I also practice **Data Structures & Algorithms in C++** to strengthen my logic a
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
 </div>
 
-<br>
+---
 
-## 🔰 Badges 
+## 🔰 Badges  
 
 <div align="left">
   <h4>Contributor - SSOC'4</h4>
@@ -84,26 +82,38 @@ I also practice **Data Structures & Algorithms in C++** to strengthen my logic a
 
 <br>
 
+<div align="left">
+  <h4>Contributor - Hacktoberfest'25</h4>
+
+  <a href="https://holopin.io/@subhamkojha">
+    <img src="https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp" width="120" alt="Hacktoberfest 2025 Level 0"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl1-astronaut.webp" width="130" alt="Hacktoberfest 2025 Level 1"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl2-astronaut.webp" width="140" alt="Hacktoberfest 2025 Level 2"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl3-astronaut.webp" width="150" alt="Hacktoberfest 2025 Level 3"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl4-astronaut.webp" width="160" alt="Hacktoberfest 2025 Level 4"/>
+    <img src="https://assets.holopin.io/hf2025levels/lvl5-astronaut.webp" width="175" alt="Super Contributor"/>
+  </a>
+</div>
+
+---
+
 ## 🏆 Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=subhamkojha&theme=tokyonight&row=1&column=6" alt="trophy" />
 </div>
 
-<br>
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=SubhamKojha&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SubhamKojha&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Most Used Languages" />
 </div>
-
 
 ---
 
@@ -114,4 +124,3 @@ I also practice **Data Structures & Algorithms in C++** to strengthen my logic a
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=subhamkojha&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
-
